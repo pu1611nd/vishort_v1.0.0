@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "592704013165",
+    "project_id": "vishort-ef364",
+    "storage_bucket": "vishort-ef364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592704013165:android:c1e62596f7d04d9aac5064",
+        "android_client_info": {
+          "package_name": "com.tuan1611pupu.vishort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592704013165-q3ijf40r61jdku1dlttjm6uci4ekogb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuan1611pupu.vishort",
+            "certificate_hash": "c6cb157245d2a1edd6be7e8c2ad9bc0735f5eed2"
+          }
+        },
+        {
+          "client_id": "592704013165-dhprpum21s9oqu3mp52cb5jlc6edg82a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjIfALG17Z7B1voxBRqkscFv-NY6R7dqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592704013165-chro5v2usijd3ginq6icuoin95elpobf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
